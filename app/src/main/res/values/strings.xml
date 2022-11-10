@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">p12_CRUDTumbuh_SQLite</string>
+    <string name="btn_tambah_data">Tambah Data</string>
+    <string name="str_textview1">Ruang Kelas</string>
+    <string name="str_edittext2">Masukkan nama ruang kelas</string>
+    <string name="str_textView2">Kapasitas</string>
+    <string name="str_editText3">Masukkan kapasitas</string>
+    <string name="str_btn1">Save Data</string>
+    <string name="str_adapter_id">{id}</string>
+    <string name="str_adapter_ruangkelas">{namaRuang}</string>
+    <string name="str_adapter_capacity">{kapasitas}</string>
+    <string name="str_edit">Edit</string>
+    <string name="str_delete">Delete</string>
+    <string name="str_update_data">Update Data</string>
+</resources>
